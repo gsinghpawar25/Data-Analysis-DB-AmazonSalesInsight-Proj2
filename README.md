@@ -1,4 +1,3 @@
-# Data-Analysis-DB-AmazonSalesInsight-Proj2
 
 # Amazon Sales Analysis - Tableau Project
 
