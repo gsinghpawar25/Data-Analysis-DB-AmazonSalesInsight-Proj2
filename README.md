@@ -21,46 +21,32 @@ The following worksheets are included in the Tableau workbook, each focusing on 
 
 #### Cost Split 
 - Breakdown of costs associated with sales and operations.
-
 #### Orders Split
 - Analysis of orders based on various parameters.
-
 #### Orders each year
 - Year-wise distribution of orders.
-
 #### Priority wise orders
 - Segmentation of orders based on priority levels.
-
 #### Profit Country wise
 - Profit distribution across different countries.
-
 #### Profit Region wise
 - Regional profit insights.
-
 #### Profit Split
 - Analysis of profit margins across different categories.
-
 ### Revenue
 - Overall revenue trends and performance.
-
 #### Revenue Split
 - Revenue breakdown by different dimensions.
-
-### Sales Channel Analysis
+#### Sales Channel Analysis
 - Performance analysis of various sales channels.
-
 #### Shipment Days
 - Analysis of delivery and shipment timelines.
-
 #### Shipments cost per year
 - Yearly breakdown of shipment costs.
-
-### Total profit
+#### Total profit
 - Overall profit trends.
-
-### Total revenue
+#### Total revenue
 - Overall revenue trends.
-
 #### Units Sold
 - Analysis of total units sold.
 
